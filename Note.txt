@@ -8,4 +8,4 @@ https://github.com/Annie-Huang/javascript-es2020
 ==========================================================
 
 C:\react\javascript-es2020>npm init -y
-
+C:\react\javascript-es2020>npm install parcel-bundler

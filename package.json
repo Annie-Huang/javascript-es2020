@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Annie-Huang/javascript-es2020/issues"
   },
-  "homepage": "https://github.com/Annie-Huang/javascript-es2020#readme"
+  "homepage": "https://github.com/Annie-Huang/javascript-es2020#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
