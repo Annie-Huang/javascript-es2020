@@ -6,3 +6,6 @@ https://www.youtube.com/watch?v=_6B_93iMCYw
 https://github.com/Annie-Huang/javascript-es2020
 
 ==========================================================
+
+C:\react\javascript-es2020>npm init -y
+
