@@ -1,0 +1,8 @@
+https://alligator.io/js/es2020/
+
+JavaScript ES2020 === Awesome New Features!!
+https://www.youtube.com/watch?v=_6B_93iMCYw
+
+https://github.com/Annie-Huang/javascript-es2020
+
+==========================================================
